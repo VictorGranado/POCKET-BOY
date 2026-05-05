@@ -9,7 +9,7 @@ It is designed as a small, Game Boy Micro-inspired device that runs themed packs
 
 ## Preview
 
-[Watch the demo on YouTube](https://https://youtu.be/DU62P35-DnI?si=-Lh8l4wHK7DMcI61)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=DU62P35-DnI)
 
 Example markdown when you have images:
 
