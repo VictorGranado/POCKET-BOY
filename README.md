@@ -1,9 +1,5 @@
 # Pocket-Boy
 
-![Status](https://img.shields.io/badge/status-in%20development-blue)
-![Platform](https://img.shields.io/badge/platform-ESP8266-orange)
-![Display](https://img.shields.io/badge/display-SSD1306%20128x64-lightgrey)
-![Input](https://img.shields.io/badge/controls-3%20buttons-green)
 
 Pocket-Boy is a tiny handheld game console built around an **ESP8266**, a **0.96\" SSD1306 OLED**, and a compact **3-button control scheme**.
 
