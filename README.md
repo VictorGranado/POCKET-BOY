@@ -46,12 +46,13 @@ Example markdown when you have images:
 ### Arcade Pack
 - Dodge
 - Runner
+- Catch
 - Flappy
 - Racing
+- Boulder
 - Tower
 
 ### Puzzle Pack
-- Catch
 - Tetris
 - Simon
 - Boulder
@@ -286,11 +287,3 @@ Pocket-Boy is inspired by:
 
 Choose a license for the repo, for example:
 - MIT
-- Apache-2.0
-- GPL-3.0
-
-If you have not chosen one yet, add a `LICENSE` file before publishing.
-
----
-
-Built as a DIY embedded handheld project with lots of iteration, tuning, debugging, and game design under tight constraints.
