@@ -13,12 +13,6 @@ It is designed as a small, Game Boy Micro-inspired device that runs themed packs
 
 Example markdown when you have images:
 
-```md
-![Splash](docs/images/splash.jpg)
-![Arcade Pack](docs/images/arcade-pack.jpg)
-![Hardware](docs/images/hardware.jpg)
-```
-
 ---
 
 ## Features
