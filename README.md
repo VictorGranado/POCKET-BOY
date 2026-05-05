@@ -9,13 +9,7 @@ It is designed as a small, Game Boy Micro-inspired device that runs themed packs
 
 ## Preview
 
-> Add screenshots or GIFs here once you have them.
-
-### Suggested media
-- Splash screen
-- Pack selection menu
-- One screenshot from each pack
-- Hardware / enclosure photo
+[Watch the demo on YouTube](https://https://youtu.be/DU62P35-DnI?si=-Lh8l4wHK7DMcI61)
 
 Example markdown when you have images:
 
