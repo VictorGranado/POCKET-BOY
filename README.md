@@ -60,6 +60,8 @@ Example markdown when you have images:
 - **Buttons:** 3 momentary buttons
 - **Power:** 3.3 V ESP8266 setup, with portable power options depending on build revision
 
+![ALT text](https://github.com/VictorGranado/POCKET-BOY/blob/c76049f674936ac9bf32a704e907208a53077b32/WhatsApp%20Image%202026-05-24%20at%2019.28.02.jpeg)
+
 ### Pin configuration
 
 Using raw GPIO numbering:
